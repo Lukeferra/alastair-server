@@ -7,7 +7,8 @@
       "label": "Analisi curva",
       "script_r7": "Analisi_curva.py",
       "script_r8": "",
-      "icon": "Alastair_logo-32x32.png",
+      "icon": "Alastair_logo.svg",
+      "icon_sha256": "3ca63f04695aaca98cc9785446d10f61dd20cdf4e98d0d8cefc5ddd5c4c88acc",
       "sha256": "5733755abd9eb26c5c77af52cc4b5dd5d0fb1cf95009c707417ff7161160e4e9"
     },
     {
@@ -15,7 +16,8 @@
       "label": "Asole e fori",
       "script_r7": "Creazione_asole_e_fori.py",
       "script_r8": "",
-      "icon": "Asole_e_fori-32x32.png",
+      "icon": "Asole_e_fori.svg",
+      "icon_sha256": "12eda3634f7c51d6dfccb27278961a88a44de67a83fdc9a9f7435c3619632077",
       "sha256": "d66f8901e36e3761db75021e7f29780eee5e8308c1c2c58b981d63eddf5f0c9b"
     },
     {
@@ -23,7 +25,8 @@
       "label": "Composizione",
       "script_r7": "Creazione_composizione_1.0.py",
       "script_r8": "",
-      "icon": "Composizione_livelli-32x32.png",
+      "icon": "Composizione_livelli.svg",
+      "icon_sha256": "602e784dfa69c3a1a6999e1da5b1648bffdfe32516c0d1f5fce15001df4970d4",
       "sha256": "815afbc2fd83ad0ab33a84efb2a25b16ac786215192c7a9fb8845e47c34f7d00"
     },
     {
@@ -31,7 +34,8 @@
       "label": "Composizione multipla",
       "script_r7": "Creazione_composizione_multiple_1.0.py",
       "script_r8": "",
-      "icon": "Composizione_livelli-32x32.png",
+      "icon": "Composizione_livelli.svg",
+      "icon_sha256": "602e784dfa69c3a1a6999e1da5b1648bffdfe32516c0d1f5fce15001df4970d4",
       "sha256": "e071992085c1109d4b206f4ae551a87936a96ded7a71e740e9fd6638730add66"
     },
     {
@@ -39,7 +43,8 @@
       "label": "Sagome serigrafia",
       "script_r7": "Creazione_sagome_serigrafia_1.1.py",
       "script_r8": "",
-      "icon": "Creazione_sagome_serigrafia-32x32.png",
+      "icon": "Creazione_sagome_serigrafia.svg",
+      "icon_sha256": "b91e349569ca00a4a8dd73896391d24a93ec4bfd9d00893bd2b831c217f61851",
       "sha256": "085104b088a5b449c4f1c8efa9f533fcbe2ab58a1f32027595c852429decbe8d"
     },
     {
@@ -47,7 +52,8 @@
       "label": "Incisioni testo lamiere",
       "script_r7": "incisioni_testo_lamiere_LABEL.py",
       "script_r8": "",
-      "icon": "Inserimento_codici-32x32.png",
+      "icon": "Inserimento_codici.svg",
+      "icon_sha256": "bb0774ea1c5b405c75e847c9c2f3eaf8864f7f28961824ebc99adffb2d2a4932",
       "sha256": "a83b11258581c374ee0742fd962edc56093356b033c28305e53bda3ccd847c2b"
     },
     {
@@ -55,7 +61,8 @@
       "label": "Sviluppi con ingombro",
       "script_r7": "Sviluppi_con_ingombro_1.4.py",
       "script_r8": "",
-      "icon": "Alastair_logo-32x32.png",
+      "icon": "Alastair_logo.svg",
+      "icon_sha256": "3ca63f04695aaca98cc9785446d10f61dd20cdf4e98d0d8cefc5ddd5c4c88acc",
       "sha256": "29f7fff83b2cbd8b298aad17bde45bf80fd5f488892b7756b997d7e43055e608"
     }
   ]
